@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "323361231709",
+    "firebase_url": "https://rocheproject-f8178.firebaseio.com",
+    "project_id": "rocheproject-f8178",
+    "storage_bucket": "rocheproject-f8178.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323361231709:android:bb497a6941ed92c3e34eb4",
+        "android_client_info": {
+          "package_name": "com.example.lifeline_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "323361231709-voqkcgqdsinq1av773i9kojpu288p2ng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbmM8YkQtfkkGaDI7GGLEQhklQYepJ8vk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "323361231709-voqkcgqdsinq1av773i9kojpu288p2ng.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,7 @@
+1.data collection <- need some data to work with for prototype
+2. upload user's medical record
+3. how to find the correct doctor for this particular data
+4. selling point - children advise parent to use the app
+5. prototype - dummy data is good enough
+6. user confidentiality
+7. uber & grab for emergency system
